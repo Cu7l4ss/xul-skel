@@ -2,6 +2,4 @@
 
 __For the ruggedly handsome__ ;)
 
-===========
-
-##### LICENSE: WTFPL
+__LICENSE: WTFPL__
